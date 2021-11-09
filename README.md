@@ -1,7 +1,7 @@
 # Grupo 4 Turing-Tech 🖥️ 
   ## Equipo 🤓
 
-**Facundo De Benedetti:** 
+**Facundo De Benedetti:** Me gusta viciar y aprender de la tecnologia en general, me gustaria poder trabajar de programador para laburar desde cualquier parte del mundo y viajar :D
 
 **Jessica Balbuena:** Apasionada de las series y la comida. Aprendiendo a programar y con ganas de superarme día a día. 
 
