@@ -13,7 +13,7 @@ me gusta la tecnologia, las inversiones en general  y la actividad fisica.
 
 ##  Turing Tech 🕹️🖱️🖥️ 
 
-Tematica del sitio: Hardware y perifericos para PC. 
+Tematica del sitio: Venta de Hardware y perifericos para PC. 
 
 Publico objetivo: Toda persona interesada en adquirir componentes para su PC o armado de una. 
 
