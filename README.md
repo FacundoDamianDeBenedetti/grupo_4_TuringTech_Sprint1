@@ -1,5 +1,8 @@
-# Grupo 4 Turing-Tech 🖥️ 
-  ## Equipo 🤓
+##  Turing Tech: Venta de Hardware y perifericos para PC🕹️🖱️🖥️ 
+
+En Turing Tech, comprendemos las necesidades de nuestros clientes, brindándoles un servicio de la más alta calidad, no solamente ofreciéndoles productos que se adapten al presupuesto del cliente, sino que también, reciben las mejores recomendaciones por parte de nuestro equipo de expertos para sacar el máximo partido en la relación precio-calidad. 
+
+## Equipo 4 🤓
 
 **Facundo De Benedetti:** Me gusta viciar y aprender de la tecnologia en general, me gustaria poder trabajar de programador para laburar desde cualquier parte del mundo y viajar :D
 
@@ -11,12 +14,7 @@
 me gusta la tecnologia, las inversiones en general  y la actividad fisica.
   
 
-##  Turing Tech 🕹️🖱️🖥️ 
-
-Tematica del sitio: Venta de Hardware y perifericos para PC. 
-
-Publico objetivo: Toda persona interesada en adquirir componentes para su PC o armado de una. 
-
+##  Referencias 🖥️
 
 https://www.compragamer.com/  -> Web líder en venta de componentes para pc con buen apartado de productos.
 
